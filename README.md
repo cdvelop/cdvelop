@@ -1,26 +1,27 @@
-## **Hellooo!** 👋
+## 👋 Hello! I'm César
 
-Soy César, **ingeniero informático** con **+12 años de experiencia** y una gran pasión por las **soluciones rápidas, ligeras y eficientes**. Mi objetivo es **eliminar la repetición de código** y lograr una **base de código única** entre el front y el back (¡mi repo `cdevlop` es la prueba!). Adoro crear **apps sencillas y fáciles de construir**, por eso el ecosistema Go en el front me fascina. Sé que su curva de aprendizaje es difícil, ¡y justo en eso he estado trabajando para simplificarla!
-
-### Mi día a día 👇
-
-* **Go & WebAssembly:** Desarrollo full-stack con **TinyGo** para llevar Go al navegador, combinando Go puro con JavaScript y CSS. ¡Puro poder! 🚀
-* **Bash, Docker & Linux (Debian 12):** Soy el rey de la **automatización**. Mi terminal, VS Code e IA son mis herramientas para crear flujos de trabajo, despliegues y entornos reproducibles. ⚙️
-
-### Mis creaciones destacadas ✨
-
-* **tinystring:** Una librería de Go **ultra-ligera** (¡75% más chica que las típicas!) para manipulación, conversión y formato de texto, además de manejo de errores. Ideal para apps con pocos recursos o compiladas con TinyGo.
-* **godev:** Mi **centro de comando TUI** para desarrollar PWAs con Go + WebAssembly, con recarga instantánea incluida.
-
-### Más allá del código 🧑‍💻
-
-Mis herramientas están diseñadas para **facilitar la vida de otros devs** de Go + TinyGo. También he desarrollado plataformas privadas en el **sector médico**. Además, **comparto conocimiento** como profesor en el **instituto AIEP de Chile**.
-
-### Off-keyboard 🕺🌲🎬
-
-Cuando no estoy frente a la pantalla, me encanta **bailar**, **ver películas** y **perderme en la montaña** (caminando, haciendo trekking o acampando).
-
-Siempre busco optimizar para que las cosas sean **pequeñas, eficientes y fáciles**. ¡Hablemos de código! 💬
+**Licensed Computer Engineer** in IT since 2007, I'm quite passionate about software development and other crazy stuff too. 🤪  
 
 
+### 📌 Featured projects
 
+- **[tinystring](#):** Ultra-lightweight Go library (up to **75% smaller** than the standard library compiled with tinygo) for text manipulation, conversion, formatting and error handling.
+- **[godev](#):** TUI environment to improve the development experience in full stack applications with Go + WebAssembly.
+
+---
+### 💡 Beyond the code
+
+- I've developed private platforms in the **medical sector**.
+- Lecturer at **Instituto AIEP (Chile)**, sharing experience and best practices in programming.
+
+---
+
+### 🌱 Outside the keyboard
+
+I enjoy **dancing salsa 💃**, **good cinema 🎬** and the **mountains 🏔️**.
+
+---
+
+>My purpose is to share knowledge and foster a community of developers with similar interests. I keep most of my projects as open source because I believe the real treasure is in learning and enjoying the journey, collaborating and inspiring while we build something useful for those who come after.
+  
+💬 Let's talk about life, and well, about code too, why not!
