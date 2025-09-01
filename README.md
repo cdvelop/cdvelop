@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm César
 
->My purpose is to share knowledge and foster a community of developers with similar interests. I keep most of my projects as open source because I believe the real treasure is in learning and enjoying the journey, collaborating and inspiring while we build something useful for those who come after.
+>Sharing knowledge and promoting a community of developers with similar interests is the objective of this repository. Most of the projects hosted here are open source. I think the real treasure is to learn and enjoy the trip, collaborating and inspiring while we build something useful for those who come later.
 
 ---
 ### 💡 Beyond the code
