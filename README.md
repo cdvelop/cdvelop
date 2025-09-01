@@ -1,8 +1,5 @@
 ## 👋 Hello! I'm César
 
-**Licensed Computer Engineer** in IT since 2007, I'm quite passionate about software development and other crazy stuff too. 🤪  
-
-
 ### 📌 Featured projects
 
 - **[tinystring](https://github.com/cdvelop/tinystring):** Ultra-lightweight Go library (up to **75% smaller** than the standard library compiled with tinygo) for text manipulation, conversion, formatting and error handling.
