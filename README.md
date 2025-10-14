@@ -11,7 +11,7 @@
 ### 📌 Featured projects
 
 - **[tinystring](https://github.com/cdvelop/tinystring):** Ultra-lightweight Go library (up to **75% smaller** than the standard library compiled with tinygo) for text manipulation, conversion, formatting and error handling.
-- **[godev](https://github.com/cdvelop/godev):** TUI environment to improve the development experience in full stack applications with Go + WebAssembly.
+- **[golite](https://github.com/cdvelop/golite):** TUI environment to improve the development experience in full stack applications with Go + WebAssembly.
 
 ---
 
